@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-06T16:12:19 IST" name="Free CRM Application Automation test suit" finished-at="2022-09-06T16:14:02 IST" duration-ms="103684">
+    <groups>
+    </groups>
+    <test started-at="2022-09-06T16:12:19 IST" name="Free CRM TestCases" finished-at="2022-09-06T16:14:02 IST" duration-ms="103684">
+      <class name="com.crm.qa.TestCases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.TestCases.HomePageTest@74d1dc36]" started-at="2022-09-06T16:13:11 IST" name="setUp" finished-at="2022-09-06T16:13:30 IST" duration-ms="19228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateHomePageTitleTest()[pri:1, instance:com.crm.qa.TestCases.HomePageTest@74d1dc36]" started-at="2022-09-06T16:13:30 IST" name="validateHomePageTitleTest" finished-at="2022-09-06T16:13:30 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePageTitleTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.TestCases.HomePageTest@74d1dc36]" started-at="2022-09-06T16:13:30 IST" name="setUp" finished-at="2022-09-06T16:14:01 IST" duration-ms="31224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateUserNameLabel()[pri:2, instance:com.crm.qa.TestCases.HomePageTest@74d1dc36]" started-at="2022-09-06T16:14:01 IST" name="validateUserNameLabel" finished-at="2022-09-06T16:14:01 IST" duration-ms="128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUserNameLabel -->
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:com.crm.qa.TestCases.HomePageTest@74d1dc36]" started-at="2022-09-06T16:14:01 IST" name="tearUp" finished-at="2022-09-06T16:14:02 IST" duration-ms="779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+      </class> <!-- com.crm.qa.TestCases.HomePageTest -->
+      <class name="com.crm.qa.TestCases.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.TestCases.LoginPageTest@738dc9b]" started-at="2022-09-06T16:12:19 IST" name="setup" finished-at="2022-09-06T16:12:38 IST" duration-ms="19389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginPageTitleTest()[pri:1, instance:com.crm.qa.TestCases.LoginPageTest@738dc9b]" started-at="2022-09-06T16:12:38 IST" name="loginPageTitleTest" finished-at="2022-09-06T16:12:38 IST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:com.crm.qa.TestCases.LoginPageTest@738dc9b]" started-at="2022-09-06T16:12:38 IST" name="tearUp" finished-at="2022-09-06T16:12:38 IST" duration-ms="322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.TestCases.LoginPageTest@738dc9b]" started-at="2022-09-06T16:12:38 IST" name="setup" finished-at="2022-09-06T16:12:48 IST" duration-ms="9718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="crmLogoTest()[pri:2, instance:com.crm.qa.TestCases.LoginPageTest@738dc9b]" started-at="2022-09-06T16:12:48 IST" name="crmLogoTest" finished-at="2022-09-06T16:12:48 IST" duration-ms="231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crmLogoTest -->
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:com.crm.qa.TestCases.LoginPageTest@738dc9b]" started-at="2022-09-06T16:12:48 IST" name="tearUp" finished-at="2022-09-06T16:12:49 IST" duration-ms="346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.TestCases.LoginPageTest@738dc9b]" started-at="2022-09-06T16:12:49 IST" name="setup" finished-at="2022-09-06T16:13:00 IST" duration-ms="11789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:3, instance:com.crm.qa.TestCases.LoginPageTest@738dc9b]" started-at="2022-09-06T16:13:00 IST" name="loginTest" finished-at="2022-09-06T16:13:10 IST" duration-ms="9964" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:com.crm.qa.TestCases.LoginPageTest@738dc9b]" started-at="2022-09-06T16:13:10 IST" name="tearUp" finished-at="2022-09-06T16:13:11 IST" duration-ms="377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+      </class> <!-- com.crm.qa.TestCases.LoginPageTest -->
+    </test> <!-- Free CRM TestCases -->
+  </suite> <!-- Free CRM Application Automation test suit -->
+</testng-results>
